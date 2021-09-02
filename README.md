@@ -1,4 +1,4 @@
-# SpotiPy_Models
+# Song_Analytics_Models_NLTK_and_Sklearn
 This is the work behind the dataset and the model notebooks for what I want to put into the analytics webapp. I utilized the web APIs for both Genius and Spotify to get the job done. 
 
 By the end, this repo will include my model notebooks, the data, and the scripts I used to collect the data. The final models here are going to be one that classifies a song via song attributes and another will do the same classification with lyrics. I also have a topic model in one of the workbooks that I used to generate a single label for each song so the classification could test accuracies. 
