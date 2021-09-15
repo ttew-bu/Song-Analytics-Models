@@ -1,5 +1,3 @@
-PLEASE NOTE THAT THIS README AND THE ORIGINAL CSVs HERE ARE COURTESY OF THE SPOTIFY HIT PREDICTOR DATASET ON KAGGLE (https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset)
-
 Context:
 	
 	This is a dataset consisting of features for tracks fetched using Spotify's Web API. The tracks are labeled '1' or '0' ('Hit' or 'Flop') depending on some criterias of the author.
